@@ -1,4 +1,5 @@
-'''Sa se afiseze elementele comune tuturor liniilor unui tablou bidimensional. De exemplu, daca tablou dimensional este:
+'''Sa se afiseze elementele comune tuturor liniilor unui tablou bidimensional.
+De exemplu, daca tablou dimensional este:
 2 1 5 1 3
 1 4 2 2
 2 1 1 6 8

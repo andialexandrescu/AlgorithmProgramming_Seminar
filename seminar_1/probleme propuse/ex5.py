@@ -30,3 +30,4 @@ while t != 0:
     t = t >> 1
 
 print(f"Numarul de valori nule din reprezentarea binara a lui n={bin(n)} este k={k}")
+

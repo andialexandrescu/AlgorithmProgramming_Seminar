@@ -15,3 +15,4 @@ si sa le calculam val xor rezultata. aparitia unei valori
 de un nr par de ori inseamna 0 compus cu un a, el fiind termenul cautat
 (chiar daca a apare de un nr impar de ori x_xor_y va deveni 0^a = a, 
 de exemplu (a^a)^a=0^a=a)'''
+

@@ -16,3 +16,4 @@ for x in freq_str:
         break
 else:
     print("da, sunt anagrame")
+
